@@ -1,4 +1,4 @@
-# Hi, I'm Jason 👋
+# Hi, I'm Jason
 
 Infrastructure engineer based in London with 20+ years of experience.
 
