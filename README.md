@@ -2,7 +2,7 @@
 
 Infrastructure engineer based in London with 20+ years of experience.
 
-I'm currently building hands-on labs in Azure, Git, Linux, Terraform, Docker and Kubernetes. The work is in my public repos here, documented as I go.
+I'm currently learning and building hands-on labs in Azure, Git, Linux, Terraform, Docker and Kubernetes. The work is in my public repos here, documented as I go.
 
 These are learning labs, not production DevOps work.
 
